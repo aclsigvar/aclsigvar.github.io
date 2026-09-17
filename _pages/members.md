@@ -28,13 +28,9 @@ Elections for the President, Secretary, and Treasurer positions will take place 
 - Jörg Tiedemann (University of Helsinki, Finland)
 
 <h2>Members</h2>
-SIGVAR currently has >80 members.
+SIGVAR has >80 members.
 
-<h2>Membership & Joining</h2>
-Membership is open to anyone who professes an interest in research on computational models, low-resource languages, language varieties, and dialects. It does not require ACL membership.
-
-Membership will be terminated on request, or automatically if no reply is received within 2 months of a yearly membership renewal request. Termination requests are to be communicated by email to the SIGVAR Secretary. Automatically terminated memberships will be reinstated on request. 
-
-SIGVAR does not charge dues to its members.
+<h2>Joining SIGVAR</h2>
 
 To join, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc8vJykJtFQEUgzL31j6Fc5iOh5DuubuZ1dVxSYTcyjUFs6Dw/viewform) or send an email to the Secretary, mentioning your name and affiliation.
+Membership details are described in SIGVAR's [constitution](/constitution#membership-and-dues).
