@@ -15,7 +15,7 @@ nav_order: 2
 - **Treasurer:** Tommi Jauhiainen (University of Helsinki, Finland; `tommi.jauhiainen AT helsinki.fi`)
 - **Resource Manager:** Verena Blaschke (University of Groningen, Netherlands; `v.blaschke AT rug.nl`)
 
-Elections for the President, Secretary, and Treasurer positions: 2027. The Resource Manager is appointed by the President.
+Elections for the President, Secretary, and Treasurer positions will take place in 2027. The Resource Manager is appointed by the President.
 
 <h2>Advisory Committee</h2>
 - Antonios Anastasopoulos (George Mason University, United States)
