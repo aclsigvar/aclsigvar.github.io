@@ -83,7 +83,7 @@ The SIGVAR will be supported by an Advisory Committee of leading researchers of 
 
 **Unexpected Vacancy** – If a vacancy occurs among the SIG officers, the remaining two elected officers will each nominate a replacement officer from among the Advisory Committee members to serve out up to the remainder of the previous office holder's term. The Advisory Committee will vote on the nominees to identify the replacement officer.
 
-### V. Ethical Considerations
+### VI. Ethical Considerations
 
 SIGVAR supports research that extends useful technologies to more language varieties and speakers than are currently served by language technologies. SIGVAR also seeks to foster the development and release of open-source datasets.
 
