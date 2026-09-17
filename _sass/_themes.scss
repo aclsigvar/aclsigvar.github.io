@@ -1,0 +1,51 @@
+/*******************************************************************************
+ * Themes
+ ******************************************************************************/
+@use "variables" as v;
+
+:root {
+  --global-bg-color: #{v.$white-color};
+  --global-code-bg-color: #{v.$code-bg-color-light};
+  --global-code-fg-color: #{v.$code-fg-color-light};
+  --global-text-color: #{v.$black-color};
+  --global-text-color-light: #{v.$grey-color};
+  --global-theme-color: #{v.$contrast-color};
+  --global-hover-color: #{v.$contrast-color};
+  --global-footer-bg-color: #{v.$grey-color-dark};
+  --global-footer-text-color: #{v.$grey-color-light};
+  --global-footer-link-color: #{v.$white-color};
+  --global-divider-color: rgba(0,0,0,.1);
+  --global-card-bg-color: #{v.$white-color};
+
+  .fa-sun {
+    display : none;
+  }
+  .fa-moon {
+    padding-left: 10px;
+    padding-top: 12px;
+    display : block;
+  }
+}
+
+html[data-theme='dark'] {
+  --global-bg-color: #{v.$grey-color-dark};
+  --global-code-bg-color: #{v.$code-bg-color-dark};
+  --global-text-color: #{v.$grey-color-light};
+  --global-text-color-light: #{v.$grey-color-light};
+  --global-theme-color: #{v.$cyan-color};
+  --global-hover-color: #{v.$cyan-color};
+  --global-footer-bg-color: #{v.$grey-color-light};
+  --global-footer-text-color: #{v.$grey-color-dark};
+  --global-footer-link-color: #{v.$black-color};
+  --global-divider-color: #424246;
+  --global-card-bg-color: #{v.$grey-900};
+
+  .fa-sun {
+    padding-left: 10px;
+    padding-top: 12px;
+    display : block;
+  }
+  .fa-moon {
+    display : none;
+  }
+}
